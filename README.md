@@ -1,44 +1,82 @@
-<<<<<<< HEAD
-# 🏛️ Sistema de Gestión de Museo
+# 🏛️ Museo Virtual - Proyecto Python 2026
 
-Aplicación desarrollada en Python para la administración de obras de arte dentro de un museo.
-
-Permite registrar, consultar, actualizar y eliminar obras, almacenando la información en una base de datos SQLite.
+> Aplicación en Python que simula la gestión de un museo: obras, visitantes y operaciones básicas.
 
 ---
 
-## 🎯 Funcionalidades
+## 📸 Vista previa
+🏛️ MUSEO VIRTUAL 🏛️
 
-- 🔐 Inicio de sesión básico
-- 🎨 Registro de obras
-- 📋 Visualización de colección
-- 🔎 Búsqueda por ID
-- ✏️ Actualización de datos
-- 🗑️ Eliminación de obras
-- ⚠️ Reporte de obras con baja cantidad
+Ver obras
+Agregar obra
+Registrar visitante
+Salir
 
 ---
 
-## 🧱 Tecnologías utilizadas
+## ✨ Funcionalidades
 
-- Python 3
-- SQLite3
-- Programación modular
+- 🎨 Gestión de obras de arte
+- 👤 Registro de visitantes
+- 📋 Menú interactivo en consola
+- 🧠 Lógica clara y modular en Python
+
+---
+
+## 🛠️ Tecnologías
+
+- 🐍 Python 3
+- 💻 Consola (CLI)
+- 📂 Estructura modular
 
 ---
 
 ## 📁 Estructura del proyecto
-=======
-# musseo-app
 app_proyecto_python_2026/
-│
-├── app.py # Archivo principal de la aplicación
-├── config.py # Configuración general del sistema
-├── auth.py # Gestión de autenticación de usuarios
-├── models/ # Modelos de datos (obras, usuarios, etc.)
-├── routes/ # Rutas o controladores
-├── templates/ # Archivos HTML (frontend)
-├── static/ # CSS, imágenes, JS
-├── database/ # Base de datos o almacenamiento
-└── README.md # Documentación del proyecto
+│── main.py
+│── funciones.py
+│── datos/
+│── README.md
 
+---
+
+## 🚀 Cómo ejecutar
+
+1. Clonar el repositorio:
+
+```bash
+git clone https://github.com/gastonmastoy/app_proyecto_python_2026.git
+
+2. Entrar en la carpeta:
+cd app_proyecto_python_2026
+
+3.Ejecutar el programa:
+python main.py
+
+🎯 Objetivo del proyecto
+
+Desarrollar una aplicación funcional aplicando:
+
+estructuras de control
+funciones
+manejo de datos
+buenas prácticas en Python
+
+📌 Mejoras futuras
+💾 Guardado en archivos (JSON / base de datos)
+🖥️ Interfaz gráfica
+🔍 Búsqueda de obras
+📊 Estadísticas del museo
+
+👨‍💻 Autor
+
+Gastón Mastoy
+
+⭐ Estado del proyecto
+
+✅ Funcional
+🚧 En mejora continua
+
+📄 Licencia
+
+Uso académico / educativo
