@@ -7,6 +7,10 @@
 ## 📸 Vista previa
 🏛️ MUSEO VIRTUAL 🏛️
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Estado](https://img.shields.io/badge/Estado-Activo-green)
+![Nivel](https://img.shields.io/badge/Nivel-Estudiante-orange)
+
 Ver obras
 Agregar obra
 Registrar visitante
@@ -80,3 +84,10 @@ Gastón Mastoy
 📄 Licencia
 
 Uso académico / educativo
+## 🔐 Acceso al sistema
+
+Para utilizar la aplicación, se requiere iniciar sesión con las siguientes credenciales:
+
+- 👤 **Usuario:** curador  
+- 🔑 **Contraseña:** museo123  
+---
